@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## deploy
 
 TODO
+
+change for stage
+
+change for working directory
