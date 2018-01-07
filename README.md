@@ -20,4 +20,4 @@ change for working directory
 
 ## copyright
 
-2018 jvv
+2018 jvv. all rights reserved
