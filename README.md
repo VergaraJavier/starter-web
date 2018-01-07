@@ -13,3 +13,7 @@ TODO
 change for stage
 
 change for working directory
+
+## copyright
+
+2018 jvv
